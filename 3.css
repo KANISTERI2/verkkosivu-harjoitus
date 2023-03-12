@@ -1,0 +1,19 @@
+section{
+    width: 10%;
+    padding-left: 0.5rem;
+    margin-left: 0.5rem;
+    float: left;
+    box-shadow: inset 5px 0 5px -5px #232527;
+    font-style: roman;
+    color: #1c1d1e;
+    background-color: black;
+ }
+header{ 
+    background-color: blue;
+}
+nav{ 
+    background-color: green;
+}
+ul:hover {
+    color: red;
+  }
